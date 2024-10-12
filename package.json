@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@eth-optimism/contracts-bedrock": "^0.17.3",
+    "@eth-optimism/sdk": "^3.3.2",
+    "ethers": "5.7.2",
+    "rlp": "^3.0.0"
+  }
+}
